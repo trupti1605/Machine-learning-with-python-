@@ -1,6 +1,7 @@
 # Machine-learning-with-python-
+### Introduction 
 In this capstone project I built a classifier to predict whether a loan will be paid or not.
-The steps for the project will be
+- The steps for the project will be
 
 1)Data cleaning 
 
