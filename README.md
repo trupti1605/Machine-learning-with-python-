@@ -4,14 +4,19 @@ In this capstone project I built a classifier to predict whether a loan will be 
 In this project we are expected to use the following algorithm to build model
 
 1)K-NN
+
 2)Decision Tree 
+
 3)SVM 
+
 4)Logistic Regression 
 
 The result is reported as the accuracy of each classifier,using the following metrics when these are applicable:-
 
 i)Jaccard index 
+
 ii)F1-score
+
 iii)Logloss
 
 - The best classifier will be 
